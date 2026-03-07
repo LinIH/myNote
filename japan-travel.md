@@ -30,8 +30,9 @@
 
 <details>
     <summary>大阪城</summary>
-    [大阪城](https://maps.app.goo.gl/KcpTQ3wNtd45jkVr8)
+    <a href="https://maps.app.goo.gl/KcpTQ3wNtd45jkVr8">大阪城</a>
 </details>
+
 
 :::spoiler 大阪城
 [大阪城](https://maps.app.goo.gl/KcpTQ3wNtd45jkVr8)
