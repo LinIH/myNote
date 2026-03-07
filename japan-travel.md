@@ -3,9 +3,9 @@
 ## 行程
 
 ### Day1 (04/02)
-10:15 :airplane_departure: 桃園機場
+10:15 :airplane: 桃園機場
 
-14:00 :airplane_arriving: 關西機場
+14:00 :airplane: 關西機場
 
 
 ### Day2 (04/03)
@@ -19,8 +19,8 @@
 
 ### Day5 (04/06)
 
-13:25 :airplane_departure: 關西機場  
-15:20 :airplane_arriving: 桃園機場  
+13:25 :airplane: 關西機場  
+15:20 :airplane: 桃園機場  
 18:10 :railway_car: 高鐵桃園站
 
 
