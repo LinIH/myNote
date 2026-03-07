@@ -46,12 +46,6 @@
     <a href="https://maps.app.goo.gl/oRrg1xdRr9nerEaq9">滝見小路</a>
 </details>
 
-<details>
-    <summary>通天閣</summary>
-    <a href="https://maps.app.goo.gl/4Ptsbxq2y15cr2sc8">通天閣</a>
-    <a href="https://maps.app.goo.gl/MLNqzAH4rEroPWhy5">四天王寺</a>
-</details>
-
 ### 姬路
 
 [姬路城](https://maps.app.goo.gl/NCKynDF12GTSgheE9)
