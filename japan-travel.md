@@ -4,8 +4,9 @@
 
 ### Day1 (04/02)
 10:15 :airplane: 桃園機場
-
 14:00 :airplane: 關西機場
+      :check in [民宿](https://maps.app.goo.gl/AgZDkbDjSr5pzWTj6)
+
 
 
 ### Day2 (04/03)
@@ -23,13 +24,48 @@
 15:20 :airplane: 桃園機場  
 18:10 :railway_car: 高鐵桃園站
 
+## 景點
+
+### 大阪
+
+:::spoiler 大阪城
+[大阪城](https://maps.app.goo.gl/KcpTQ3wNtd45jkVr8)
+:::
+
+:::spoiler 通天閣
+[通天閣](https://maps.app.goo.gl/4Ptsbxq2y15cr2sc8)
+[四天王寺](https://maps.app.goo.gl/MLNqzAH4rEroPWhy5)
+:::
+
+:::spoiler 梅田藍天大樓
+[梅田藍天大樓](https://maps.app.goo.gl/AonYaEZdHyxpZxCx8)
+[滝見小路](https://maps.app.goo.gl/oRrg1xdRr9nerEaq9)
+:::
+
+### 姬路
+
+[姬路城](https://maps.app.goo.gl/NCKynDF12GTSgheE9)
+[姬路城特產 白布丁](https://maps.app.goo.gl/AgZDkbDjSr5pzWTj6)
+
 
 ---
 ## 各種卡
 
 ### 交通卡
 
+- 西瓜卡可apple pay用電子票
+
+- 關西機場購買實體票證
+
 ### sim卡
+
+### 大阪周遊卡
+
+- 可線上購買電子票證，寄QRCODE到信箱，使用當天再啟用
+
+- 等4月份再購買(注意有效期間)
+
+- 2日券：約1,000台幣
 
 ---
 ## 行李
