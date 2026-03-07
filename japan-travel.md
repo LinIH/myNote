@@ -33,20 +33,24 @@
     <a href="https://maps.app.goo.gl/KcpTQ3wNtd45jkVr8">大阪城</a>
 </details>
 
+<details>
+    <summary>通天閣</summary>
+    <a href="https://maps.app.goo.gl/4Ptsbxq2y15cr2sc8">通天閣</a>
+    <a href="https://maps.app.goo.gl/MLNqzAH4rEroPWhy5">四天王寺</a>
+</details>
 
-:::spoiler 大阪城
-[大阪城](https://maps.app.goo.gl/KcpTQ3wNtd45jkVr8)
-:::
 
-:::spoiler 通天閣
-[通天閣](https://maps.app.goo.gl/4Ptsbxq2y15cr2sc8)
-[四天王寺](https://maps.app.goo.gl/MLNqzAH4rEroPWhy5)
-:::
+<details>
+    <summary>梅田藍天大樓</summary>
+    <a href="https://maps.app.goo.gl/AonYaEZdHyxpZxCx8">梅田藍天大樓</a>
+    <a href="https://maps.app.goo.gl/oRrg1xdRr9nerEaq9">滝見小路</a>
+</details>
 
-:::spoiler 梅田藍天大樓
-[梅田藍天大樓](https://maps.app.goo.gl/AonYaEZdHyxpZxCx8)
-[滝見小路](https://maps.app.goo.gl/oRrg1xdRr9nerEaq9)
-:::
+<details>
+    <summary>通天閣</summary>
+    <a href="https://maps.app.goo.gl/4Ptsbxq2y15cr2sc8">通天閣</a>
+    <a href="https://maps.app.goo.gl/MLNqzAH4rEroPWhy5">四天王寺</a>
+</details>
 
 ### 姬路
 
