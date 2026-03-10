@@ -6,12 +6,11 @@
 10:15 :airplane: 桃園機場  
 14:00 :airplane: 關西機場  
       :check in [民宿](https://maps.app.goo.gl/AgZDkbDjSr5pzWTj6)  
-1234
 
 
 
 ### Day2 (04/03)
-1234444
+
 
 ### Day3 (04/04)
 
